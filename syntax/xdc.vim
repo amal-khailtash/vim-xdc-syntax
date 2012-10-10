@@ -124,14 +124,14 @@ highligh default link sdcLogicAssignments                     Operator
 highligh default link sdcObjectAccessCommands                 Operator
 highligh default link sdcGeneralPurposeCommands               Operator
 
-highligh default link sdcCollection_Unsupported               ErrorMsg
-highligh default link sdcWireLoadModels_Unsupported           ErrorMsg
-highligh default link sdcSystemInterface_Unsupported          ErrorMsg
-highligh default link sdcDesignRuleConstraints_Unsupported    ErrorMsg
-highligh default link sdcTimingConstraints_Unsupported        ErrorMsg
-highligh default link sdcAreaConstraints_Unsupported          ErrorMsg
-highligh default link sdcMultivoltagePowerOpt_Unsupported     ErrorMsg
-highligh default link sdcAltera_Unsupported                   ErrorMsg
+highligh default link sdcCollection_Unsupported               WarningMsg
+highligh default link sdcWireLoadModels_Unsupported           WarningMsg
+highligh default link sdcSystemInterface_Unsupported          WarningMsg
+highligh default link sdcDesignRuleConstraints_Unsupported    WarningMsg
+highligh default link sdcTimingConstraints_Unsupported        WarningMsg
+highligh default link sdcAreaConstraints_Unsupported          WarningMsg
+highligh default link sdcMultivoltagePowerOpt_Unsupported     WarningMsg
+highligh default link sdcAltera_Unsupported                   WarningMsg
 
 highligh default link xdcOperatingConditions                  Operator
 highligh default link xdcTimingConstraints                    Operator
