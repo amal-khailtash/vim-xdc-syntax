@@ -3,7 +3,7 @@ vim-xdc-syntax
 
 Syntax highlighting for Xilinx Design Constraints
 
-## Installation  
+## Installation
 
 _\*Assuming **[VIM_ROOT]** is ~/.vim (on \*nix) or ~/vimfiles (on Windows)_
 
