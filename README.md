@@ -7,7 +7,7 @@ Vim XDC (Xilinx Design Constraints) Syntax
 
 _\*Assuming **[VIM_ROOT]** is ~/.vim (on \*nix) or ~/vimfiles (on Windows)_
 
-This syntax file requires Vim 7 or higher is made up of 2 files:
+This syntax file requires Vim 7 or higher and is made up of 2 files:
 
     ftdetect/xdc.vim
     syntax/xdc.vim
