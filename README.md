@@ -1,7 +1,7 @@
 vim-xdc-syntax
 ==============
 
-Vim XDC (Xilinx Design Constraints) Syntax
+Syntax highlighting for Xilinx Design Constraints
 
 ## Installation  
 
