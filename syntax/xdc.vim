@@ -2,11 +2,11 @@
 " Language:     XDC - Xilinx Design Constraints
 " Author:       Amal Khailtash <amal.khailtash@gmail.com>
 " Maintainer:   Amal Khailtash <amal.khailtash@gmail.com>
-" Last Change:  Tue, Oct 09, 2012  3:46:15 PM
+" Last Change:  Tue, Oct 09, 2012  7:46:15 PM
 " Credits:      Based on SDC Vim syntax file
 " Version:      1.1
 " Revision Comments:
-"   Amal Khailtash <amal.khailtash@gmail.com> - Tue, Oct 09, 2012  3:46:15 PM
+"   Amal Khailtash <amal.khailtash@gmail.com> - Tue, Oct 09, 2012  7:46:15 PM
 "     1.0 - Initial revision
 
 " Quit when a syntax file was already loaded
@@ -18,7 +18,7 @@ endif
 runtime! syntax/tcl.vim
 
 " ----------------------------------------------------------------------------------------------------------------------
-" SDC-specific keywords (unsupported ones are commented)
+" SDC-specific keywords
 " ----------------------------------------------------------------------------------------------------------------------
 " Operating Conditions
 syntax keyword sdcOperatingConditions                  set_operating_conditions
