@@ -16,14 +16,14 @@ This syntax file requires Vim 7 or higher and is made up of 2 files:
 
 * Extract the zip contents to your **[VIM_ROOT]**
 
+### Vundle Install
+
+* Add "Bundle 'vim-xdc-syntax'" to your vimrc
+
 ### Pathogen Install
 
 1. Navigate to your **[VIM_ROOT]/bundle** directory
 2. git clone https://github.com/amal-khailtash/vim-xdc-syntax.git
-
-### Vundle Install
-
-* Add "Bundle 'vim-xdc-syntax'" to your vimrc
 
 ### References
 
