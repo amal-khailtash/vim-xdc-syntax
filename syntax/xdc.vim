@@ -4,7 +4,7 @@
 " Maintainer:   Amal Khailtash <amal.khailtash@gmail.com>
 " Last Change:  Tue, Oct 09, 2012  3:46:15 PM
 " Credits:      Based on SDC Vim syntax file
-" Version:      1.0
+" Version:      1.1
 " Revision Comments:
 "   Amal Khailtash <amal.khailtash@gmail.com> - Tue, Oct 09, 2012  3:46:15 PM
 "     1.0 - Initial revision
