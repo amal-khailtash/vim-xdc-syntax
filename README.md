@@ -27,5 +27,5 @@ This syntax file requires Vim 7 or higher and is made up of 2 files:
 
 ### References
 
-* [Vivado Design Suite User Guide - Using Constraints](http://www.xilinx.com/support/documentation/sw_manuals/xilinx2012_2/ug903-vivado-using-constraints.pdf)
-* [Vivado Design Suite Tcl Command Reference Guide](http://www.xilinx.com/support/documentation/sw_manuals/xilinx2012_2/ug835-vivado-tcl-commands.pdf)
+* [Vivado Design Suite User Guide - Using Constraints](http://www.xilinx.com/support/documentation/sw_manuals/xilinx2013_1/ug903-vivado-using-constraints.pdf)
+* [Vivado Design Suite Tcl Command Reference Guide](http://www.xilinx.com/support/documentation/sw_manuals/xilinx2013_1/ug835-vivado-tcl-commands.pdf)
