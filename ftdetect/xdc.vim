@@ -1,2 +1,2 @@
 " xdc
-autocmd BufNewFile,BufRead *.xdc setfiletype=xdc
+autocmd BufNewFile,BufRead *.xdc setfiletype xdc
