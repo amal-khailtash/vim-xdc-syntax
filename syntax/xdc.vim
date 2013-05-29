@@ -131,7 +131,7 @@ syntax keyword xdcConstant                             DIFF_SSTL15_T_DCI DIFF_SS
 syntax keyword xdcConstant                             DIFF_SSTL18_II_T_DCI DIFF_SSTL18_I_DCI HSLVDCI_15 HSLVDCI_18 HSTL_I
 syntax keyword xdcConstant                             HSTL_II HSTL_II_18 HSTL_II_DCI HSTL_II_DCI_18 HSTL_II_T_DCI
 syntax keyword xdcConstant                             HSTL_II_T_DCI_18 HSTL_I_18 HSTL_I_DCI HSTL_I_DCI_18 HSUL_12_DCI
-syntax keyword xdcConstant                             LVCMOS12 LVCMOS18 LVCMOS25 LVDCI_15 LVDCI_18 LVDCI_DV2_15
+syntax keyword xdcConstant                             LVCMOS12 LVCMOS18 LVCMOS25 LVDCI_15 LVDCI_18 LVDCI_DV2_15 LVDS
 syntax keyword xdcConstant                             LVDCI_DV2_18 SSTL12_DCI SSTL12_T_DCI SSTL135 SSTL135_DCI SSTL135_R
 syntax keyword xdcConstant                             SSTL135_T_DCI SSTL15 SSTL15_DCI SSTL15_R SSTL15_T_DCI SSTL18_I
 syntax keyword xdcConstant                             SSTL18_II SSTL18_II_DCI SSTL18_II_T_DCI SSTL18_I_DCI
